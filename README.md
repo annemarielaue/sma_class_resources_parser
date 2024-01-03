@@ -1,0 +1,2 @@
+# sma_class_resources_parser
+This code is for web scraping. It iterates over a list of class resources, makes HTTP requests to their respective URLs, parses the HTML content, extracts URLs based on the title, and writes the extracted data into separate JSON files for each class resource.
