@@ -1,9 +1,51 @@
 # This code is for web scraping. It iterates over a list of class resources, makes HTTP requests to their respective URLs, parses the HTML content, extracts URLs based on the title, and writes the extracted data into separate JSON files for each class resource.
 
 
+import os, shutil
+
 from bs4 import BeautifulSoup
 import json
 import requests
+
+import dominate
+from dominate.tags import *
+
+
+def createPrintLines():
+    print()
+    print()
+    print()
+    print()
+    print()
+    print("---------------------------------------------------------")
+    print("---------------------------------------------------------")
+    print("---------------------------------------------------------")
+    print("---------------------------------------------------------")
+    print("---------------------------------------------------------")
+    print("---------------------------------------------------------")
+    print("---------------------------------------------------------")
+    print("---------------------------------------------------------")
+    print("---------------------------------------------------------")
+    print("---------------------------------------------------------")
+
+
+
+
+#python program to check if a directory exists
+htmlFilesFolder = "htmlFiles"
+
+
+
+# Check whether the specified path exists or not
+isExist = os.path.exists(htmlFilesFolder)
+if isExist:
+   shutil.rmtree(htmlFilesFolder)
+else:
+   # Create a new directory because it does not exist
+   os.makedirs(htmlFilesFolder)
+   print("The" + htmlFilesFolder + " directory is created!")
+
+
 
 # Using a cookies dictionary so I can verifying the client device
 cookies = {
@@ -288,13 +330,25 @@ class_resource_metadata_10E = {
 class_resources.append(class_resource_metadata_10E)
 
 
+#lean how to use the dominate library here: https://github.com/Knio/dominate
+smaClassesDoc = dominate.document(title='SMA Classes')
+
+with smaClassesDoc:
+    with div(id='header').add(ul()):
+        for class_resource in class_resources:
+            li(a(class_resource['title'], href='%s' % class_resource["url"]))
+print(smaClassesDoc)
+createPrintLines()
+
+
+
 count = 1
 
 # Print the array using a for loop
 for metadata in class_resources:
     # Code that does parsing stuff
     page = requests.get(metadata["url"], cookies=cookies)
-    print(page.text)
+    #print(page.text)
 
     soup = BeautifulSoup(page.text, "html.parser")
 
@@ -329,11 +383,24 @@ for metadata in class_resources:
         for a_tag in soup.find_all("a"):
             list_of_urls_on_page.append([a_tag.get("href"), a_tag.text])
 
-    print("---------------------------- beginning of iteration")
-    print(metadata)
-    print(count, metadata["title"], " - ", metadata["url"])
-    count = count + 1
-    print("---------------------------- end of iteration")
-    with open(f"data_{metadata['title']}.json", "w", newline="") as file:
+    # print("---------------------------- beginning of iteration")
+    # print(metadata)
+    # print(count, metadata["title"], " - ", metadata["url"])
+    # count = count + 1
+    # print("---------------------------- end of iteration")
+
+
+    docIteration = dominate.document(title = metadata['title'])
+
+    with docIteration:
+        h1("I am the list for " + metadata['title'])
+        with div(id='resourceList').add(ul()):
+            for urlItem in list_of_urls_on_page[metadata["first_index"] : metadata["last_index"]]:
+                li(a(urlItem[1], href='%s' % urlItem[0]))
+
+    print(docIteration)
+    createPrintLines()
+
+    with open(htmlFilesFolder + f"/data_{metadata['title']}.html", "w", newline="") as file:
         # merge two lists arr1 + arr2
-        file.write(json.dumps(list_of_urls_on_page[metadata["first_index"] : metadata["last_index"]]))
+        file.write(docIteration.render())
