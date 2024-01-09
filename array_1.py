@@ -26,10 +26,19 @@ class_resource_metadata_1 = {
 class_resources.append(class_resource_metadata_1)
 
 
+#Pre-calc webpage
+class_resource_metadata_2A1 = {
+    "first_index": 81,
+    "last_index": 91,
+    "title": "Pre-Calc Chapters",
+    "url": "https://www.stmonicaacademy.com/pre-calculus/",
+}
+class_resources.append(class_resource_metadata_2A1)
+
 # Pre-calc chapters
 class_resource_metadata_2 = {
     "first_index": 0,
-    "last_index": 100,
+    "last_index": 200,
     "title": "Pre-Calc Chapter 1",
     "url": "https://www.stmonicaacademy.com/pre-calculus/pre-calc-chapter-1/",
 }
@@ -39,7 +48,7 @@ class_resources.append(class_resource_metadata_2)
 # Pre-calc chapters
 class_resource_metadata_2A = {
     "first_index": 0,
-    "last_index": 100,
+    "last_index": 200,
     "title": "Pre-Calc Chapter 2",
     "url": "https://www.stmonicaacademy.com/pre-calculus/pre-calc-chapter-2/",
 }
@@ -49,7 +58,7 @@ class_resources.append(class_resource_metadata_2A)
 # Pre-calc chapters
 class_resource_metadata_2B = {
     "first_index": 0,
-    "last_index": 100,
+    "last_index": 200,
     "title": "Pre-Calc Chapter 3",
     "url": "https://www.stmonicaacademy.com/pre-calculus/pre-calc-chapter-3/",
 }
@@ -59,7 +68,7 @@ class_resources.append(class_resource_metadata_2B)
 # Pre-calc chapters
 class_resource_metadata_2C = {
     "first_index": 0,
-    "last_index": 100,
+    "last_index": 200,
     "title": "Pre-Calc Chapter 4",
     "url": "https://www.stmonicaacademy.com/pre-calculus/pre-calc-chapter-4/",
 }
@@ -69,7 +78,7 @@ class_resources.append(class_resource_metadata_2C)
 # Pre-calc chapters
 class_resource_metadata_2D = {
     "first_index": 0,
-    "last_index": 100,
+    "last_index": 200,
     "title": "Pre-Calc Chapter 5",
     "url": "https://www.stmonicaacademy.com/pre-calculus/pre-calc-chapter-5/",
 }
@@ -79,7 +88,7 @@ class_resources.append(class_resource_metadata_2D)
 # Pre-calc chapters
 class_resource_metadata_2E = {
     "first_index": 0,
-    "last_index": 100,
+    "last_index": 200,
     "title": "Pre-Calc Chapter 6",
     "url": "https://www.stmonicaacademy.com/pre-calculus/pre-calc-chapter-6/",
 }
@@ -89,7 +98,7 @@ class_resources.append(class_resource_metadata_2E)
 # Pre-calc chapters
 class_resource_metadata_2F = {
     "first_index": 0,
-    "last_index": 100,
+    "last_index": 200,
     "title": "Pre-Calc Chapter 7",
     "url": "https://www.stmonicaacademy.com/pre-calculus/pre-calc-chapter-7/",
 }
@@ -99,7 +108,7 @@ class_resources.append(class_resource_metadata_2F)
 # Pre-calc chapters
 class_resource_metadata_2G = {
     "first_index": 0,
-    "last_index": 100,
+    "last_index": 200,
     "title": "Pre-Calc Chapter 8",
     "url": "https://www.stmonicaacademy.com/pre-calculus/pre-calc-chapter-8/",
 }
@@ -109,7 +118,7 @@ class_resources.append(class_resource_metadata_2G)
 # Pre-calc chapters
 class_resource_metadata_2H = {
     "first_index": 0,
-    "last_index": 100,
+    "last_index": 200,
     "title": "Pre-Calc Chapter 9",
     "url": "https://www.stmonicaacademy.com/pre-calculus/pre-calc-chapter-9/",
 }
@@ -119,7 +128,7 @@ class_resources.append(class_resource_metadata_2H)
 # Pre-calc chapters
 class_resource_metadata_2I = {
     "first_index": 0,
-    "last_index": 100,
+    "last_index": 200,
     "title": "Pre-Calc Chapter 10",
     "url": "https://www.stmonicaacademy.com/pre-calculus/pre-calc-chapter-10/",
 }
@@ -303,7 +312,7 @@ for metadata in class_resources:
     # list_of_urls_on_page_a = []
     #list_of_urls_on_page_iframe = []
 
-    if metadata["title"] == "Computer Science" or metadata["title"] == "Calculus":
+    if metadata["title"] in ["Computer Science", "Calculus", "AP Chemistry", "Pre-Calc Chapter 1", "Pre-Calc Chapter 2", "Pre-Calc Chapter 3", "Pre-Calc Chapter 4", "Pre-Calc Chapter 5", "Pre-Calc Chapter 6", "Pre-Calc Chapter 7", "Pre-Calc Chapter 8", "Pre-Calc Chapter 9", "Pre-Calc Chapter 10"]:
         # Enters a loop to iterate over all <iframe> tags on the webpage using BeautifulSoup's find_all method
         # these specific iframes are an embeded youtube clients
         for iframe_tag in soup.find_all("iframe"):
