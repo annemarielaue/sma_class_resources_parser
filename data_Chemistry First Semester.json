@@ -1,1 +1,106 @@
-["https://www.stmonicaacademy.com/wp-content/uploads/2022/01/What-is-Chemistry-.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2023/09/Ch-2-States-of-Matter.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2022/01/Ch-3-Scientific-Measurement.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2022/10/Ch-4-Problem-Solving.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Ch-5-Atomic-Structure-Periodic-Table.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Self-Quiz-Ch-5.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Ch-6-Chemical-Names-Formulas.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2022/01/Memorizing-Polyatomic-Ions.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2022/01/Simplified-Chemical-Naming-Rules1.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2022/12/Chapter-7-Parts-1-2-Combined-Slides.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2022/12/Chapter-7-Part-1.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2022/12/Chapter-7-Part-2.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2023/01/Ch-8-Chemical-Reactions.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2024/01/1st-Semester-Summary-Ch-2-8.pdf", "https://www.stmonicaacademy.com/wp-content/uploads/2024/01/1st-Semester-Summary-Ch-2-8.pdf", "https://www.youtube.com/embed/pmVF9fP6tnc?rel=0", "https://www.youtube.com/embed/ShSB8NtvW7M?rel=0", "https://www.youtube.com/embed/_I15oRanymE?rel=0", "https://www.youtube.com/embed/YRVi9r_Fjak?rel=0", "https://www.youtube.com/embed/0Q1ZRiVkWTM?rel=0", "https://www.youtube.com/embed/YBNaZ8afi6k?rel=0", "https://youtube.com/embed/Ffi-tCYP5v4?rel=0", "https://youtube.com/embed/M145HHa4lnw?rel=0", "https://www.youtube.com/embed/adNd4k7SJu8?rel=0", "https://www.youtube.com/embed/y7xHVh4M7LI?rel=0", "https://www.youtube.com/embed/SphbSOWATuI?rel=0"]Chemistry First Semester
+[
+    {
+        "title": "Slides for Ch. 1: What is Chemistry",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/01/What-is-Chemistry-.pdf"
+    },
+    {
+        "title": "Slides for Ch. 2: States of Matter",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2023/09/Ch-2-States-of-Matter.pdf"
+    },
+    {
+        "title": "Slides for Ch. 3: Scientific Measurement",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/01/Ch-3-Scientific-Measurement.pdf"
+    },
+    {
+        "title": "Slides for Ch. 4: Problem Solving",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/10/Ch-4-Problem-Solving.pdf"
+    },
+    {
+        "title": "Slides for Ch. 5: Atomic Structure & Periodic Table",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Ch-5-Atomic-Structure-Periodic-Table.pdf"
+    },
+    {
+        "title": "Self-Quiz for Ch. 5: Atomic Structure & Periodic Table",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Self-Quiz-Ch-5.pdf"
+    },
+    {
+        "title": "Slides for Ch. 6: Chemical Names & Formulas",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Ch-6-Chemical-Names-Formulas.pdf"
+    },
+    {
+        "title": "Slides for Memorizing Polyatomic Ions",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/01/Memorizing-Polyatomic-Ions.pdf"
+    },
+    {
+        "title": "Slides for Simplified Chemical Naming Rules",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/01/Simplified-Chemical-Naming-Rules1.pdf"
+    },
+    {
+        "title": "Slides for Parts 1 & 2 combined \u2013 Ch. 7: Chemical Quantities",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/12/Chapter-7-Parts-1-2-Combined-Slides.pdf"
+    },
+    {
+        "title": "Slides for Part 1 \u2013 Ch. 7: Chemical Quantities",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/12/Chapter-7-Part-1.pdf"
+    },
+    {
+        "title": "Slides for Part 2 \u2013 Ch. 7: Chemical Quantities",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/12/Chapter-7-Part-2.pdf"
+    },
+    {
+        "title": "Slides for Ch. 8: Chemical Reactions",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2023/01/Ch-8-Chemical-Reactions.pdf"
+    },
+    {
+        "title": "Slides for 1st Semester Review: Ch 2-8",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2024/01/1st-Semester-Summary-Ch-2-8.pdf"
+    },
+    {
+        "title": "1st Semester Summary Ch 2-8",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2024/01/1st-Semester-Summary-Ch-2-8.pdf"
+    },
+    {
+        "title": "Chemistry First Semester",
+        "url": "https://www.youtube.com/embed/pmVF9fP6tnc?rel=0"
+    },
+    {
+        "title": "Chemistry First Semester",
+        "url": "https://www.youtube.com/embed/ShSB8NtvW7M?rel=0"
+    },
+    {
+        "title": "Chemistry First Semester",
+        "url": "https://www.youtube.com/embed/_I15oRanymE?rel=0"
+    },
+    {
+        "title": "Chemistry First Semester",
+        "url": "https://www.youtube.com/embed/YRVi9r_Fjak?rel=0"
+    },
+    {
+        "title": "Chemistry First Semester",
+        "url": "https://www.youtube.com/embed/0Q1ZRiVkWTM?rel=0"
+    },
+    {
+        "title": "Chemistry First Semester",
+        "url": "https://www.youtube.com/embed/YBNaZ8afi6k?rel=0"
+    },
+    {
+        "title": "Chemistry First Semester",
+        "url": "https://youtube.com/embed/Ffi-tCYP5v4?rel=0"
+    },
+    {
+        "title": "Chemistry First Semester",
+        "url": "https://youtube.com/embed/M145HHa4lnw?rel=0"
+    },
+    {
+        "title": "Chemistry First Semester",
+        "url": "https://www.youtube.com/embed/adNd4k7SJu8?rel=0"
+    },
+    {
+        "title": "Chemistry First Semester",
+        "url": "https://www.youtube.com/embed/y7xHVh4M7LI?rel=0"
+    },
+    {
+        "title": "Chemistry First Semester",
+        "url": "https://www.youtube.com/embed/SphbSOWATuI?rel=0"
+    }
+]

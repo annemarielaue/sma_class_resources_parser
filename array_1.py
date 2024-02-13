@@ -254,7 +254,7 @@ for metadata in class_resources:
     # Initialize an empty list to store URLs
     list_of_urls_on_page = []
     # list_of_urls_on_page_a = []
-    #list_of_urls_on_page_iframe = []
+    # list_of_urls_on_page_iframe = []
   
 
     # Find all elements with class "middle div"
@@ -269,7 +269,7 @@ for metadata in class_resources:
         for tag in anchor_tags:
             href = tag.get("href")
             if href:
-                list_of_urls_on_page.append(href)
+                list_of_urls_on_page.append({"title": tag.text, "url": href})
 
         # Find all iframe tags within the middle div
         iframe_tags = div.find_all("iframe")
@@ -277,8 +277,9 @@ for metadata in class_resources:
         for tag in iframe_tags:
             src = tag.get("src")
             if src:
-                list_of_urls_on_page.append(src)
+                list_of_urls_on_page.append({"title": metadata["title"], "url": src})
     
+
 
 
     print("---------------------------- beginning of iteration")
