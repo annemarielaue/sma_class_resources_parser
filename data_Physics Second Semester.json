@@ -1,54 +1,122 @@
 [
-    [
-        "https://www.stmonicaacademy.com/giving/",
-        "Giving"
-    ],
-    [
-        "https://www.stmonicaacademy.com/auction-gala/",
-        "Auction & Gala"
-    ],
-    [
-        "https://www.stmonicaacademy.com/annual-fund/",
-        "Annual Fund"
-    ],
-    [
-        "https://www.stmonicaacademy.com/community-sponsors/",
-        "Community Sponsors"
-    ],
-    [
-        "https://www.stmonicaacademy.com/general-information/",
-        "General Information"
-    ],
-    [
-        "https://www.stmonicaacademy.com/give-online/",
-        "Give Online"
-    ],
-    [
-        "https://www.stmonicaacademy.com/jog-a-thon/",
-        "Jog-A-Thon"
-    ],
-    [
-        "https://www.stmonicaacademy.com/planned-giving/",
-        "Planned Giving"
-    ],
-    [
-        "https://www.stmonicaacademy.com/scrip/",
-        "Scrip"
-    ],
-    [
-        "https://give.cornerstone.cc/stmonicaacademy",
-        "Jim Tierney Scholarship"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Chapter-19-Problem-Set.pdf",
-        "Chapter 19 Problems"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Chapter-20-Part-1-Problem-Set.pdf",
-        "Chapter 20, Part 1 Problems"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Chapters-19-20-Test-Review.pdf",
-        "Chapters 19-20 Review Problems"
-    ]
+    {
+        "title": "Chapter 19 Problems",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Chapter-19-Problem-Set.pdf"
+    },
+    {
+        "title": "Chapter 20, Part 1 Problems",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Chapter-20-Part-1-Problem-Set.pdf"
+    },
+    {
+        "title": "Chapters 19-20 Review Problems",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Chapters-19-20-Test-Review.pdf"
+    },
+    {
+        "title": "Chapter 21, Part 1 Problems",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Chapter-21-Part-1-Problem-Set.pdf"
+    },
+    {
+        "title": "Chapter 21, Part 2 Problems",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Chapter-21-Part-2-Problem-Set.pdf"
+    },
+    {
+        "title": "Chapters 21-22 Review Problems",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Chapters-21-22-Test-Review.pdf"
+    },
+    {
+        "title": "Chapters 23-25 Review Questions",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Chapters-23-25-Review-Questions.pdf"
+    },
+    {
+        "title": "Chapters 26-29 Review Questions",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/11/Chapters-26-29-Review-Questions.pdf"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/owAinpZSZZI?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/p20xA6KJv-k?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/aVSv--nPF-4?si=4SMRj7fdErIj6_uB?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/tsLl2tIOobM?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/uNK3O-nM03Q?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/tSEWYZ8yhv4?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/cz9tX_zmmaE?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/PCJw9DIfn84?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/HXIzy8he6Xw?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/KjuTyRwpG38?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/SxkcEdROlKU?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/JV-Zb2OD6Tg?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/HHdx9qjl3eI?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/_O9jq_FdSgo?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/eaqo8i1uPaQ?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/kww1TizeCZg?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/Lv-sv-1PHR4?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/U0PSUTAKEYE?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/7kb1VT0J3DE?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/qO_W70VegbQ?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/lUhJL7o6_cA?controls=0&rel=0"
+    },
+    {
+        "title": "Physics Second Semester",
+        "url": "https://www.youtube.com/embed/VYxYuaDvdM0?controls=0&rel=0"
+    }
 ]

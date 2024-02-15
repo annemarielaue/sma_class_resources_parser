@@ -1,82 +1,122 @@
 [
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2023/02/Ch-9-Stoichiometry.pdf",
-        "Slides for Ch 9: Calculating Chemical Quantities"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2023/03/Chapter-10-States-of-Matter-wo-vids.pdf",
-        "Slides for Ch 10: States of Matter"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/03/Ch-11-Thermochemistry-Heat-Chemical-Change.pdf",
-        "Slides for Ch 11: Thermochemistry"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2023/03/Ch-12-Gases.pdf",
-        "Slides for Ch 12: Behavior of Gases"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2023/05/Ch-13-Electrons.pdf",
-        "Slides for Ch 13: Electrons"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2023/05/Ch-14-Periodic-Trends-new.pdf",
-        "Slides for Ch 14: Periodic Trends"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2023/05/Ch-15-Ionic-Bondings-Ionic-Compounds.pdf",
-        "Slides for Ch 15: Ionic Bonding & Ionic Compounds"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/Ch-16-Covalent-Bonding1.pdf",
-        "Slides for Ch 16: Covalent Bonding"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2140-Ch-9-Stoichiometry.pdf",
-        "Summary Slides for Ch 9: Stoichiometry"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2140-Ch-10-States-of-Matter.pdf",
-        "Summary Slides for Ch 10: States of Matter"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-11-Thermochemistry.pdf",
-        "Summary Slides for Ch 11: Thermochemistry"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-12-Gases.pdf",
-        "Summary Slides for Ch 12: Gases"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-13-Electrons.pdf",
-        "Summary Slides for Ch 13: Electrons"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-14-Periodicity.pdf",
-        "Summary Slides for Ch 14: Periodicity"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-15-Ionic-Bondings-Ionic-Compounds.pdf",
-        "Summary Slides for Ch 15: Ionic Bonding"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-16-Covalent-Bonding.pdf",
-        "Summary Slides for Ch 16: Covalent Bonding"
-    ],
-    [
-        "#",
-        "Student-Created 2nd-Semester Problem Solutions Video"
-    ],
-    [
-        "#",
-        "Student-Created 2nd-Semester Summary Video"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/06/2nd-Semester-Summary-Ch-9-16-Stepanie-E.pdf",
-        "Student-Created 2nd Semester Google Slides"
-    ],
-    [
-        "https://www.stmonicaacademy.com/wp-content/uploads/2022/06/Chem-Study-Guide-ch-9-16-3.pdf",
-        "Student-Created 2nd Semester Study Guide"
-    ]
+    {
+        "title": "Slides for Ch 9: Calculating Chemical Quantities",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2023/02/Ch-9-Stoichiometry.pdf"
+    },
+    {
+        "title": "Slides for Ch 10: States of Matter",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2023/03/Chapter-10-States-of-Matter-wo-vids.pdf"
+    },
+    {
+        "title": "Slides for Ch 11: Thermochemistry",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/03/Ch-11-Thermochemistry-Heat-Chemical-Change.pdf"
+    },
+    {
+        "title": "Slides for Ch 12: Behavior of Gases",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2023/03/Ch-12-Gases.pdf"
+    },
+    {
+        "title": "Slides for Ch 13: Electrons",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2023/05/Ch-13-Electrons.pdf"
+    },
+    {
+        "title": "Slides for Ch 14: Periodic Trends",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2023/05/Ch-14-Periodic-Trends-new.pdf"
+    },
+    {
+        "title": "Slides for Ch 15: Ionic Bonding & Ionic Compounds",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2023/05/Ch-15-Ionic-Bondings-Ionic-Compounds.pdf"
+    },
+    {
+        "title": "Slides for Ch 16: Covalent Bonding",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/Ch-16-Covalent-Bonding1.pdf"
+    },
+    {
+        "title": "Summary Slides for Ch 9: Stoichiometry",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2140-Ch-9-Stoichiometry.pdf"
+    },
+    {
+        "title": "Summary Slides for Ch 10: States of Matter",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2140-Ch-10-States-of-Matter.pdf"
+    },
+    {
+        "title": "Summary Slides for Ch 11: Thermochemistry",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-11-Thermochemistry.pdf"
+    },
+    {
+        "title": "Summary Slides for Ch 12: Gases",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-12-Gases.pdf"
+    },
+    {
+        "title": "Summary Slides for Ch 13: Electrons",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-13-Electrons.pdf"
+    },
+    {
+        "title": "Summary Slides for Ch 14: Periodicity",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-14-Periodicity.pdf"
+    },
+    {
+        "title": "Summary Slides for Ch 15: Ionic Bonding",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-15-Ionic-Bondings-Ionic-Compounds.pdf"
+    },
+    {
+        "title": "Summary Slides for Ch 16: Covalent Bonding",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/05/\u2211-Ch-16-Covalent-Bonding.pdf"
+    },
+    {
+        "title": "Student-Created 2nd-Semester Problem Solutions Video",
+        "url": "#"
+    },
+    {
+        "title": "Student-Created 2nd-Semester Summary Video",
+        "url": "#"
+    },
+    {
+        "title": "Student-Created 2nd Semester Google Slides",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/06/2nd-Semester-Summary-Ch-9-16-Stepanie-E.pdf"
+    },
+    {
+        "title": "Student-Created 2nd Semester Study Guide",
+        "url": "https://www.stmonicaacademy.com/wp-content/uploads/2022/06/Chem-Study-Guide-ch-9-16-3.pdf"
+    },
+    {
+        "title": "Chemistry Second Semetester",
+        "url": "https://youtube.com/embed/6yYFyOZnKdY?rel=0"
+    },
+    {
+        "title": "Chemistry Second Semetester",
+        "url": "https://youtube.com/embed/Fhs6FvYxNmM?rel=0"
+    },
+    {
+        "title": "Chemistry Second Semetester",
+        "url": "https://youtube.com/embed/Bl7oHv1k2BE?rel=0"
+    },
+    {
+        "title": "Chemistry Second Semetester",
+        "url": "https://youtube.com/embed/QPTnXjDUpNI?rel=0"
+    },
+    {
+        "title": "Chemistry Second Semetester",
+        "url": "https://youtube.com/embed/yOYBpAO6h-0?rel=0"
+    },
+    {
+        "title": "Chemistry Second Semetester",
+        "url": "https://youtube.com/embed/Y1i566EOIsA?rel=0"
+    },
+    {
+        "title": "Chemistry Second Semetester",
+        "url": "https://youtube.com/embed/sIYxsGXb2OU?rel=0"
+    },
+    {
+        "title": "Chemistry Second Semetester",
+        "url": "https://youtube.com/embed/QZl3tBK0_Bg?rel=0"
+    },
+    {
+        "title": "Chemistry Second Semetester",
+        "url": "https://youtube.com/embed/W9FUHPs24Ns?rel=0"
+    },
+    {
+        "title": "Chemistry Second Semetester",
+        "url": "https://youtube.com/embed/owk5L3yIFgM?rel=0"
+    }
 ]

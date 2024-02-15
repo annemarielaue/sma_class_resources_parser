@@ -1,1 +1,38 @@
-[["https://www.youtube.com/embed/a0c8e9dooUw", ""], ["https://www.youtube.com/embed/-oEIdGNtKoY", ""], ["https://www.youtube.com/embed/305xlDbY7Go", ""], ["https://www.youtube.com/embed/nc9iO6SFXMs", ""], ["https://www.youtube.com/embed/2c0jRzHY2k8", ""], ["https://www.youtube.com/embed/oM7Y6yYd4wE", ""], ["https://www.youtube.com/embed/C6e51cA1mwQ", ""], ["https://www.youtube.com/embed/afQ9NEASLqQ", ""], ["https://www.youtube.com/embed/XoWSzYy0xgw", ""]]
+[
+    {
+        "title": "Calculus",
+        "url": "https://www.youtube.com/embed/a0c8e9dooUw"
+    },
+    {
+        "title": "Calculus",
+        "url": "https://www.youtube.com/embed/-oEIdGNtKoY"
+    },
+    {
+        "title": "Calculus",
+        "url": "https://www.youtube.com/embed/305xlDbY7Go"
+    },
+    {
+        "title": "Calculus",
+        "url": "https://www.youtube.com/embed/nc9iO6SFXMs"
+    },
+    {
+        "title": "Calculus",
+        "url": "https://www.youtube.com/embed/2c0jRzHY2k8"
+    },
+    {
+        "title": "Calculus",
+        "url": "https://www.youtube.com/embed/oM7Y6yYd4wE"
+    },
+    {
+        "title": "Calculus",
+        "url": "https://www.youtube.com/embed/C6e51cA1mwQ"
+    },
+    {
+        "title": "Calculus",
+        "url": "https://www.youtube.com/embed/afQ9NEASLqQ"
+    },
+    {
+        "title": "Calculus",
+        "url": "https://www.youtube.com/embed/XoWSzYy0xgw"
+    }
+]
